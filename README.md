@@ -1,3 +1,3 @@
-My nameis muftau Muheez
-I am a Python Developer I love cofing in python becuase python is the best programming laguage
-
+This is a practice Class
+The name of our instructor is Mr Emeka 
+This is a practice Class
